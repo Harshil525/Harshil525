@@ -31,3 +31,19 @@ Here are some ideas to get you started:
 - 🧠 Data Structures & Algorithms
 - 🔐 Cybersecurity
 - 🗄️ Git & GitHub
+
+## 🚀 Featured Project
+
+### 🔐 SecurePass — Password Strength Analyzer
+
+A Python-based password security tool that analyzes password strength and generates strong random passwords.
+
+**Key Features:**
+- Password strength analysis
+- Common password detection
+- Name-based password detection
+- Security suggestions
+- Strong password generation
+
+🔗 [View SecurePass Repository](https://github.com/Harshil525/SecurePass)
+  
