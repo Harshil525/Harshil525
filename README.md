@@ -46,4 +46,28 @@ A Python-based password security tool that analyzes password strength and genera
 - Strong password generation
 
 🔗 [View SecurePass Repository](https://github.com/Harshil525/SecurePass)
-  
+
+## 📚 Currently Learning
+
+- 🧩 Data Structures & Algorithms
+- ☕ Java Programming
+- 🐍 Advanced Python
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Web Development
+
+## 🎯 Goals
+
+- 🚀 Build real-world software projects
+- 💻 Strengthen problem-solving and DSA skills
+- 🔐 Explore cybersecurity
+- 🌱 Contribute to open-source projects
+- 📈 Keep learning and growing as a developer
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn — [LinkedIn](https://www.linkedin.com/in/harshil05/)
+- 🐙 GitHub — [Harshil525](https://github.com/Harshil525)
+
+---
+
+⭐ Thanks for visiting my profile!
