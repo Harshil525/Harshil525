@@ -15,3 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![An image of @harshil525's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil525)](https://holopin.io/@harshil525)
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 💻 Interested in Python, Java, and DSA
+- 🔐 Exploring Cybersecurity and secure software development
+- 🚀 Building practical projects to improve my programming skills
+- 📚 Always learning and improving
+  
+## 🛠️ Skills & Technologies
+
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML
+- 🧠 Data Structures & Algorithms
+- 🔐 Cybersecurity
+- 🗄️ Git & GitHub
